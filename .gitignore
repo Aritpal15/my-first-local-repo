@@ -1,0 +1,6 @@
+add the file extensions which we want to exclude from git to track them
+*.log
+*.docx
+*.xlsx
+*.[abcd]
+
